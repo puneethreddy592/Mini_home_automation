@@ -90,7 +90,7 @@ This project is open-source and available under the MIT License.
 
 ## Authors
 
-**Puneeth**
-**Dhanush**
+**[Puneeth](https://github.com/puneethreddy592)** <br>
+**[Dhanush](https://github.com/Dhanush0147)**
 
 Happy Monitoring! 🚀
