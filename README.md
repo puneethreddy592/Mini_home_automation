@@ -27,6 +27,8 @@ This project is a comprehensive sensor monitoring and control system, designed t
 
 The Arduino collects sensor values, processes them, and sends the data to the NodeMCU via serial communication. The NodeMCU then updates a web server, allowing users to view sensor data and control the servo motor and buzzer.
 
+<img alt="output" src="images.png" />
+
 ## Code Explanation
 
 ### Arduino Code
